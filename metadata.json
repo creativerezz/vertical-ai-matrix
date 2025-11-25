@@ -1,0 +1,5 @@
+{
+  "name": "LeanAI Matrix",
+  "description": "Interactive matrix to discover Service-as-Software startup opportunities across industries and functions using Gemini 2.5 and 3.0 models.",
+  "requestFramePermissions": []
+}
